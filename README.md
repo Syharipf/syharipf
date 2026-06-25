@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###
----
 
-## 💬 Quote of the Day
-<p align="center">
-  <img src="https://cards.purell.workers.dev/quote?type=anime" alt="Anime Quote" width="100%" />
-</p>
+## 💬 Anime Quote of the Day
+"Thinking you're no good and worthless is the worst thing you can do." - Nobita Nobi (Doraemon)
 
 ###
 
