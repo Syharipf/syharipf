@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 ###
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
-### 💭 Quote
+> **"Testing shows the presence, not the absence of bugs."**  
+> — *Edsger W. Dijkstra*
 
-> *"Testing shows the presence, not the absence of bugs."*  
-> **— Edsger W. Dijkstra**
+*Building confidence through verification, automation, and continuous improvement.*
 
 </td>
 </tr>
