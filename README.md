@@ -41,6 +41,12 @@
 
 ###
 
+<p align="center">
+  <img src="dist/youtube-music-widget.svg" alt="YouTube Music Widget" width="400px" />
+</p>
+
+###
+
 <div align="center">
   <table width="100%">
     <tr>
