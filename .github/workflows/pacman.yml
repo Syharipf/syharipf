@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -14,6 +17,6 @@ jobs:
       - name: Generate Pacman Graph
         uses: maurodesouza/github-contribution-graph-action@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: syharipf
           output_branch: pacman-output
           output_ext: svg
