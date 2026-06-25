@@ -16,8 +16,18 @@ Here are some ideas to get you started:
 -->
 ###
 
-## 💬 Anime Quote of the Day
-"Thinking you're no good and worthless is the worst thing you can do." - Nobita Nobi (Doraemon)
+<table>
+<tr>
+<td align="center">
+
+### 💭 Quote
+
+> *"Testing shows the presence, not the absence of bugs."*  
+> **— Edsger W. Dijkstra**
+
+</td>
+</tr>
+</table>
 
 ###
 
