@@ -1,24 +1,30 @@
-name: Update YouTube Music Now Playing
+name: Generate YouTube Music Widget
 
 on:
   schedule:
-    - cron: "0 */1 * * *" 
-  workflow_dispatch: 
+    - cron: "0 */2 * * *" 
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: YouTube Music Readme
-        uses: asheeshh/ytm-readme@v1.1.2
+      - name: generate-youtube-music-widget
+        uses: daeun503/profile-music-widget@v1
         with:
-          CHANNEL_ID: "UCeyqc16ASwbFldXnZAZU_Mg" 
-          BACKGROUND_COLOR: "#0d1117"
-          TITLE_COLOR: "#bc8cff"
-          TEXT_COLOR: "#8b949e"
+          playlist_id: "PLPLWXKh-npBB966FhYDCgFB6ZNM7W0aiO&si=DpW-LYUjRtM42zLA"
+          theme: "dark.svg"
+          is_gif_bg: false
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "chore: update youtube music widget" && git push
