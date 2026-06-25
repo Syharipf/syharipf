@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###
+---
+
+## 💬 Quote of the Day
 <p align="center">
-  <img src="https://anime-quotes-readme.vercel.app/api/quote" alt="Anime Quote of the Day" />
+  <img src="https://cards.purell.workers.dev/quote?type=anime" alt="Anime Quote" width="100%" />
 </p>
 
 ###
