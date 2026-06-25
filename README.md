@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 ###
 
 <table width="100%">
-<tr>
-<td align="center">
-
-> **"Testing shows the presence, not the absence of bugs."**  
-> — *Edsger W. Dijkstra*
-
-*Building confidence through verification, automation, and continuous improvement.*
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <p align="center">
+        <strong>"Testing shows the presence, not the absence of bugs."</strong><br>
+        — <em>Edsger W. Dijkstra</em>
+      </p>
+      <p align="center">
+        <em>Building confidence through verification, automation, and continuous improvement.</em>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ###
