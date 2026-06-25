@@ -19,7 +19,6 @@ jobs:
         uses: daeun503/profile-music-widget@v1
         with:
           playlist_id: "PLPLWXKh-npBB966FhYDCgFB6ZNM7W0aiO&si=DpW-LYUjRtM42zLA"
-          theme: "dark.svg"
           is_gif_bg: false
 
       - name: Commit and Push Changes
