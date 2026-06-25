@@ -1,0 +1,19 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Pacman Graph
+        uses: maurodesouza/github-contribution-graph-action@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          output_branch: pacman-output
+          output_ext: svg
