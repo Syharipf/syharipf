@@ -1,0 +1,23 @@
+name: Update YouTube Music Now Playing
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-mood:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: YouTube Music Readme
+        uses: t-richard/youtube-music-readme@v1
+        with:
+          bg_color: "0d1117"
+          title_color: "bc8cff"
+          artist_color: "8b949e"
