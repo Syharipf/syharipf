@@ -112,7 +112,7 @@
 
         <!-- Time -->
         <text x="160" y="98" class="t-meta">00:00</text>
-        <text x="535" y="98" class="t-meta" text-anchor="end">06:30</text>
+        <text x="535" y="98" class="t-meta" text-anchor="end">07:01</text>
       </g>
 
       <text x="160" y="128" class="t-meta">YouTube • Click to open playlist</text>
