@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/role-QA_Engineer-58a6ff?style=flat-square&labelColor=0d1117" alt="role QA Engineer" />
 <img src="https://img.shields.io/badge/bugs_found-%E2%88%9E-f85149?style=flat-square&labelColor=0d1117" alt="bugs found infinite" />
 <img src="https://img.shields.io/badge/coverage-curiosity_100%25-d29922?style=flat-square&labelColor=0d1117" alt="coverage curiosity 100%" />
+<a href="https://myanimelist.net/profile/Syharipf"><img src="https://img.shields.io/badge/MyAnimeList-Syharipf-2E51A2?style=flat-square&logo=myanimelist&logoColor=white&labelColor=0d1117" alt="MyAnimeList" /></a>
 <img src="https://komarev.com/ghpvc/?username=syharipf&style=flat-square&color=8b949e&label=test+runs" alt="profile views" />
 
 </div>
@@ -101,11 +102,15 @@ Tests:  5 passed, 1 known limitation, 6 total
   <img alt="Contribution calendar rendered as a test run: days with contributions pass, empty days are skipped" src="https://raw.githubusercontent.com/syharipf/syharipf/test-report-output/test-report-light.svg">
 </picture>
 
-## 🎧 Background Process
+## 🎌 Anime Test Suite
 
-<p align="center">
-  <img src="dist/youtube-music-widget.svg" alt="YouTube Music Widget" width="400px" />
-</p>
+<a href="https://myanimelist.net/profile/Syharipf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syharipf/syharipf/test-report-output/anime-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syharipf/syharipf/test-report-output/anime-light.svg">
+    <img alt="MyAnimeList anime list rendered as a test run: completed passes, watching runs, dropped fails" src="https://raw.githubusercontent.com/syharipf/syharipf/test-report-output/anime-light.svg">
+  </picture>
+</a>
 
 ---
 
