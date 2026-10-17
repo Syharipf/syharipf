@@ -65,14 +65,14 @@ Tests:  5 passed, 1 known limitation, 6 total
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
-      <h3><a href="https://github.com/syharipf/Anchoa">📁 Anchoa</a></h3>
+      <h3><a href="https://github.com/syharipf/Anchoa"><img src="https://raw.githubusercontent.com/syharipf/Anchoa/main/public/logo/svg/anchoa-ikon-app.svg" width="20" height="20" valign="middle" alt="Anchoa" /> Anchoa</a></h3>
       <p>Linux file manager with a built-in AI/CLI panel. It runs batch file operations from natural language, powered by a local LLM.</p>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
-      <h3><a href="https://github.com/syharipf/UjiKSR">📝 UjiKSR</a></h3>
+      <h3><a href="https://github.com/syharipf/UjiKSR"><img src="https://raw.githubusercontent.com/syharipf/UjiKSR/master/app/icon.svg" width="20" height="20" valign="middle" alt="UjiKSR" /> UjiKSR</a></h3>
       <p>Anti-cheat pre-test and post-test exam web app for KSR PMI Telkom University. Participants join by QR scan; admins manage sessions, questions and scores.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
@@ -80,17 +80,12 @@ Tests:  5 passed, 1 known limitation, 6 total
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
-      <h3><a href="https://github.com/syharipf/self-hosted-cloud-infrastructure">☁️ Self-Hosted Cloud</a></h3>
-      <p>Containerized cloud services with secure networking and an isolated database architecture.</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <h3><a href="https://github.com/syharipf/Nongle"><img src="https://raw.githubusercontent.com/Syharipf/Nongle/main/public/assets/icon.svg" width="20" height="20" valign="middle" alt="Nongle" /> Nongle</a></h3>
+      <p>Zero-dongle presentation hub: turn any smartphone into a presentation clicker, touchpad, and gyro air pointer without apps or USB dongles.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
-      <h3><a href="https://github.com/syharipf/self-hosted-media-player">🎬 Self-Hosted Media</a></h3>
-      <p>Secure media server behind a Cloudflare Tunnel, with no public ports exposed.</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
