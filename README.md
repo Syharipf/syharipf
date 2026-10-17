@@ -2,13 +2,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=3FB950&center=true&vCenter=true&width=640&lines=%24+qa+run+syarif.spec.ts;%E2%9C%93+QA+Engineer+%E2%80%94+passed;%E2%9C%93+Breaks+things+to+make+them+better;%E2%9C%93+Home+lab+%26+self-hosting+%E2%80%94+passed" alt="Test runner intro" />
 
-<img src="https://img.shields.io/badge/build-passing-3fb950?style=flat-square&labelColor=0d1117" alt="build passing" />
-<img src="https://img.shields.io/badge/role-QA_Engineer-58a6ff?style=flat-square&labelColor=0d1117" alt="role QA Engineer" />
-<img src="https://img.shields.io/badge/bugs_found-%E2%88%9E-f85149?style=flat-square&labelColor=0d1117" alt="bugs found infinite" />
-<img src="https://img.shields.io/badge/coverage-curiosity_100%25-d29922?style=flat-square&labelColor=0d1117" alt="coverage curiosity 100%" />
-<a href="https://www.instagram.com/syharipf"><img src="https://img.shields.io/badge/Instagram-syharipf-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
-<a href="https://myanimelist.net/profile/Syharipf"><img src="https://img.shields.io/badge/MyAnimeList-Syharipf-2E51A2?style=flat-square&logo=myanimelist&logoColor=white&labelColor=0d1117" alt="MyAnimeList" /></a>
-<img src="https://hits.sh/github.com/syharipf.svg?style=flat-square&label=test+runs&color=8b949e&labelColor=0d1117" alt="test runs" />
+<p>
+  <img src="https://img.shields.io/badge/build-passing-3fb950?style=flat-square&labelColor=0d1117" alt="build passing" />
+  <img src="https://img.shields.io/badge/role-QA_Engineer-58a6ff?style=flat-square&labelColor=0d1117" alt="role QA Engineer" />
+  <img src="https://img.shields.io/badge/bugs_found-%E2%88%9E-f85149?style=flat-square&labelColor=0d1117" alt="bugs found infinite" />
+  <img src="https://img.shields.io/badge/coverage-curiosity_100%25-d29922?style=flat-square&labelColor=0d1117" alt="coverage curiosity 100%" />
+  <img src="https://hits.sh/github.com/syharipf.svg?style=flat-square&label=test+runs&color=8b949e&labelColor=0d1117" alt="test runs" />
+</p>
+
+<p>
+  <a href="https://www.instagram.com/syharipf"><img src="https://img.shields.io/badge/Instagram-syharipf-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
+  <a href="https://myanimelist.net/profile/Syharipf"><img src="https://img.shields.io/badge/MyAnimeList-Syharipf-2E51A2?style=flat-square&logo=myanimelist&logoColor=white&labelColor=0d1117" alt="MyAnimeList" /></a>
+</p>
 
 </div>
 
