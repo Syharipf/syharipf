@@ -6,8 +6,9 @@
 <img src="https://img.shields.io/badge/role-QA_Engineer-58a6ff?style=flat-square&labelColor=0d1117" alt="role QA Engineer" />
 <img src="https://img.shields.io/badge/bugs_found-%E2%88%9E-f85149?style=flat-square&labelColor=0d1117" alt="bugs found infinite" />
 <img src="https://img.shields.io/badge/coverage-curiosity_100%25-d29922?style=flat-square&labelColor=0d1117" alt="coverage curiosity 100%" />
+<a href="https://www.instagram.com/syharipf"><img src="https://img.shields.io/badge/Instagram-syharipf-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
 <a href="https://myanimelist.net/profile/Syharipf"><img src="https://img.shields.io/badge/MyAnimeList-Syharipf-2E51A2?style=flat-square&logo=myanimelist&logoColor=white&labelColor=0d1117" alt="MyAnimeList" /></a>
-<img src="https://komarev.com/ghpvc/?username=syharipf&style=flat-square&color=8b949e&label=test+runs" alt="profile views" />
+<img src="https://hits.sh/github.com/syharipf.svg?style=flat-square&label=test+runs&color=8b949e&labelColor=0d1117" alt="test runs" />
 
 </div>
 
@@ -78,14 +79,13 @@ Tests:  5 passed, 1 known limitation, 6 total
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
-      <h3><a href="https://github.com/syharipf/Nongle"><img src="https://raw.githubusercontent.com/Syharipf/Nongle/main/public/assets/icon.svg" width="20" height="20" valign="middle" alt="Nongle" /> Nongle</a></h3>
+      <h3><a href="https://github.com/syharipf/Nongle"><img src="https://raw.githubusercontent.com/syharipf/Nongle/main/public/assets/icon.svg" width="20" height="20" valign="middle" alt="Nongle" /> Nongle</a></h3>
       <p>Zero-dongle presentation hub: turn any smartphone into a presentation clicker, touchpad, and gyro air pointer without apps or USB dongles.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
