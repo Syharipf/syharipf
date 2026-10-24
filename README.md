@@ -84,12 +84,20 @@ Tests:  5 passed, 1 known limitation, 6 total
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
       <h3><a href="https://github.com/syharipf/Nongle"><img src="https://raw.githubusercontent.com/syharipf/Nongle/main/public/assets/icon.svg" width="20" height="20" valign="middle" alt="Nongle" /> Nongle</a></h3>
       <p>Zero-dongle presentation hub: turn any smartphone into a presentation clicker, touchpad, and gyro air pointer without apps or USB dongles.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PASS-3fb950?style=flat-square" alt="PASS" />
+      <h3><a href="https://github.com/syharipf/KSR-PMI-Unit-Telkom"><img src="https://raw.githubusercontent.com/syharipf/KSR-PMI-Unit-Telkom/main/public/media/brand/logo-pmi-resmi.svg" width="20" height="20" valign="middle" alt="KSR PMI Telkom" /> KSR-PMI-Unit-Telkom</a></h3>
+      <p>Official profile site and integrated service portal for KSR PMI Telkom University: emergency medical dispatch, blood donation workflows, and work program catalog.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
 </table>
